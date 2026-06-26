@@ -3,5 +3,11 @@
   "symbol": "MCATS",
   "description": "Официальный токен NFT-коллекции monkCats",
   "image": "https://githubusercontent.com",
-  "decimals": "9"
+  "decimals": "9",
+  "links": [
+    "https://t.me"
+  ],
+  "socials": [
+    "https://t.me"
+  ]
 }
