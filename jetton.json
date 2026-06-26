@@ -4,10 +4,6 @@
   "description": "Официальный токен NFT-коллекции monkCats",
   "image": "https://githubusercontent.com",
   "decimals": "9",
-  "links": [
-    "https://t.me"
-  ],
-  "socials": [
-    "https://t.me"
-  ]
+  "links": ["https://t.me/official_monkCats"],
+  "socials": ["https://t.me/official_monkCats"]
 }
